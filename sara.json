@@ -1,11 +1,11 @@
 {
   "ver":1.0,
   "se":{
-    "25":{"url":"https://github.com/jaguaz/lrcgf/blob/ed8c437984c9c459a9b7753b91d6f5b4159d446b/act_pon.wav"},
-    "27":{"url":"https://github.com/jaguaz/lrcgf/blob/ed8c437984c9c459a9b7753b91d6f5b4159d446b/act_kan.wav"},
+    "25":{"url":"https://jaguaz.github.io/lrcgf/act_pon.wav"},
+    "27":{"url":"https://jaguaz.github.io/lrcgf/act_kan.wav"},
     "29":{"url":"https://jaguaz.github.io/lrcgf/act_chi.wav"},
-    "31":{"url":"https://github.com/jaguaz/lrcgf/blob/ed8c437984c9c459a9b7753b91d6f5b4159d446b/act_rich.wav"},
-    "33":{"url":"https://github.com/jaguaz/lrcgf/blob/ed8c437984c9c459a9b7753b91d6f5b4159d446b/act_ron.wav"},
-    "35":{"url":"https://github.com/jaguaz/lrcgf/blob/ed8c437984c9c459a9b7753b91d6f5b4159d446b/act_tumo.wav"}
+    "31":{"url":"https://jaguaz.github.io/lrcgf/act_rich.wav"},
+    "33":{"url":"https://jaguaz.github.io/lrcgf/act_ron.wav"},
+    "35":{"url":"https://jaguaz.github.io/lrcgf/act_tumo.wav"}
   }
 }
