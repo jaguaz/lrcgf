@@ -1,11 +1,11 @@
 {
   "ver":1.0,
   "se":{
-    "25":{"url":"https://mahjongsoul.club/sites/default/files/act_pon_36.mp3"},
-    "27":{"url":"https://mahjongsoul.club/sites/default/files/act_kan_36.mp3"},
-    "29":{"url":"https://mahjongsoul.club/sites/default/files/act_chi_36.mp3"},
-    "31":{"url":"https://mahjongsoul.club/sites/default/files/act_rich_36.mp3"},
-    "33":{"url":"https://mahjongsoul.club/sites/default/files/act_ron_36.mp3"},
-    "35":{"url":"https://mahjongsoul.club/sites/default/files/act_tumo_36.mp3"}
+    "25":{"url":"https://jaguaz.github.io/jaguaz/act_pon_36.wav"},
+    "27":{"url":"https://jaguaz.github.io/jaguaz/act_kan_36.wav"},
+    "29":{"url":"https://jaguaz.github.io/jaguaz/act_chi_36.wav"},
+    "31":{"url":"https://jaguaz.github.io/jaguaz/act_rich_36.wav"},
+    "33":{"url":"https://jaguaz.github.io/jaguaz/act_ron_36.wav3"},
+    "35":{"url":"https://jaguaz.github.io/jaguaz/act_tumo_36.wav"}
   }
 }
