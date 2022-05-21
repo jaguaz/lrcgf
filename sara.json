@@ -1,11 +1,11 @@
 {
   "ver":1.0,
   "se":{
-    "26":{"url":"https://jaguaz.github.io/lrcgf/act_pon.wav"},
-    "28":{"url":"https://jaguaz.github.io/lrcgf/act_kan.wav"},
-    "30":{"url":"https://jaguaz.github.io/lrcgf/act_chi.wav"},
-    "32":{"url":"https://jaguaz.github.io/lrcgf/act_rich.wav"},
-    "34":{"url":"https://jaguaz.github.io/lrcgf/act_ron.wav"},
-    "36":{"url":"https://jaguaz.github.io/lrcgf/act_tumo.wav"}
+    "26":{"url":"https://lrcgf0.github.io/lrcgf/act_pon.wav"},
+    "28":{"url":"https://lrcgf0.github.io/lrcgf/act_kan.wav"},
+    "30":{"url":"https://lrcgf0.github.io/lrcgf/act_chi.wav"},
+    "32":{"url":"https://lrcgf0.github.io/lrcgf/act_rich.wav"},
+    "34":{"url":"https://lrcgf0.github.io/lrcgf/act_ron.wav"},
+    "36":{"url":"https://lrcgf0.github.io/lrcgf/act_tumo.wav"}
   }
 }
